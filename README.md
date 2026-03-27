@@ -1,2 +1,2 @@
-# carotid-anomaly-dwt-resnet
+# fetus-anomaly-dwt-resnet
 A trial implementation of DWT (Discrete Wavelet Transform)
